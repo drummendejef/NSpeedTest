@@ -5,3 +5,5 @@ NSpeedTest
 NSpeedTest C# client library to test internet bandwidth using speedtest.net
 
 This is based on the NSpeedTest project from https://github.com/Kwull
+
+Adjusting this project for my own needs.
