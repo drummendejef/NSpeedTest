@@ -1,0 +1,5 @@
+C:\Users\Admin\Downloads\NSpeedTest-master\NSpeedTest\bin\Debug\NSpeedTest.dll
+C:\Users\Admin\Downloads\NSpeedTest-master\NSpeedTest\bin\Debug\NSpeedTest.pdb
+C:\Users\Admin\Downloads\NSpeedTest-master\NSpeedTest\obj\Debug\NSpeedTest.dll
+C:\Users\Admin\Downloads\NSpeedTest-master\NSpeedTest\obj\Debug\NSpeedTest.pdb
+C:\Users\Admin\Downloads\NSpeedTest-master\NSpeedTest\obj\Debug\NSpeedTest.csprojResolveAssemblyReference.cache

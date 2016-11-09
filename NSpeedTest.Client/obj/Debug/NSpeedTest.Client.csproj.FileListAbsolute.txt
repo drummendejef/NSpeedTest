@@ -1,0 +1,11 @@
+C:\Users\Admin\Downloads\NSpeedTest-master\NSpeedTest.Client\bin\Debug\NSpeedTest.Client.exe.config
+C:\Users\Admin\Downloads\NSpeedTest-master\NSpeedTest.Client\bin\Debug\NSpeedTest.Client.exe
+C:\Users\Admin\Downloads\NSpeedTest-master\NSpeedTest.Client\bin\Debug\NSpeedTest.Client.pdb
+C:\Users\Admin\Downloads\NSpeedTest-master\NSpeedTest.Client\bin\Debug\NSpeedTest.dll
+C:\Users\Admin\Downloads\NSpeedTest-master\NSpeedTest.Client\bin\Debug\NSpeedTest.pdb
+C:\Users\Admin\Downloads\NSpeedTest-master\NSpeedTest.Client\obj\Debug\NSpeedTest.Client.exe
+C:\Users\Admin\Downloads\NSpeedTest-master\NSpeedTest.Client\obj\Debug\NSpeedTest.Client.pdb
+C:\Users\Admin\Downloads\NSpeedTest-master\NSpeedTest.Client\obj\Debug\NSpeedTest.Client.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\NSpeedTest\NSpeedTest.Client\bin\Debug\NSpeedTest.Client.exe.config
+C:\Users\Admin\Documents\GitHub\NSpeedTest\NSpeedTest.Client\obj\Debug\NSpeedTest.Client.exe
+C:\Users\Admin\Documents\GitHub\NSpeedTest\NSpeedTest.Client\obj\Debug\NSpeedTest.Client.pdb
