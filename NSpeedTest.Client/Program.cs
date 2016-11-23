@@ -11,7 +11,7 @@ namespace NSpeedTest.Client
         private static SpeedTestClient client;
         private static Settings settings;
         private const string DefaultCountry = "Belgium";
-        private const string ResultPath = @"C:/Users/Admin/Documents/speedresult.txt";
+        private const string ResultPath = @"C:/Users/Joren/Documents/speedresult.txt";
 
         static void Main()
         {
